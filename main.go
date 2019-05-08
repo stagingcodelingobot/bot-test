@@ -24,6 +24,7 @@ func GetSubSlice(start int, slice []int) []int {
 
 func AnotherGetSubSlice(start int, slice []int) []int {
 	// a comment
+	return nil
 }
 
 func Do() error {
