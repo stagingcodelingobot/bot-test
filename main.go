@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// main func
+// main func...
 func main() {
 	msg := "Exported"
 	Export(msg)
