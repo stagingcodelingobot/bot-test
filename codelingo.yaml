@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/cockroachdb/undefined
 - import: codelingo/code-review-comments/context-first-arg
 - import: codelingo/code-review-comments/avoid-meaningless-package-names
 - import: codelingo/go
