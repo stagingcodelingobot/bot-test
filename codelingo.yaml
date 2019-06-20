@@ -1,4 +1,7 @@
 tenets:
+- import: codelingo/kubernetes/flags-have-underscores
+- import: codelingo/cockroachdb/fmt-verbs
+- import: codelingo/cockroachdb/func-args-inline-comments
 - import: codelingo/cacophony/debug-prints
 - import: codelingo/code-review-comments/context-first-arg
 - import: codelingo/code-review-comments/avoid-meaningless-package-names
