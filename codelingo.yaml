@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/code-review-comments/no-custom-context
 - import: codelingo/effective-go/comment-first-word-as-subject
 - import: codelingo/kubernetes/flags-have-underscores
 - import: codelingo/cockroachdb/fmt-verbs
