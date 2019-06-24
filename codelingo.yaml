@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/kubernetes/new-package-requires-test
 - import: codelingo/effective-go/loop-variable-used-in-go-routine
 - import: codelingo/effective-go/no-get-in-getters-name
 - import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
