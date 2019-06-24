@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/go/global-var
 - import: codelingo/landmines/shadowed-func-parameter
 - import: codelingo/kubernetes/new-package-requires-test
 - import: codelingo/effective-go/loop-variable-used-in-go-routine
