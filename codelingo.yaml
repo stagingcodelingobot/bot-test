@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
 - import: codelingo/code-review-comments/single-letter-loop-variable
 - import: codelingo/code-review-comments/no-custom-context
 - import: codelingo/effective-go/comment-first-word-as-subject
