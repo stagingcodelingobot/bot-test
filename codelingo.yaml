@@ -1,4 +1,10 @@
 tenets:
+- import: codelingo/code-review-comments/camel-case-constants
+- import: codelingo/cacophony/caught-generic-exceptions
+- import: codelingo/code-review-comments/go-error-fmt
+- import: codelingo/code-review-comments/context-in-struct
+- import: codelingo/rfjakob-gocryptfs/missing-close-file
+- import: codelingo/cacophony/defer-in-loop
 - import: codelingo/effective-go/update-comment-first-word-as-subject
 - import: codelingo/mozillazg-go-cos/always-close-object-response-body
 - import: codelingo/cacophony/redundant-defer-wraps
