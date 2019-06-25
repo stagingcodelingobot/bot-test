@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/cacophony/redundant-defer-wraps
 - import: codelingo/go/golint
 - import: codelingo/go/global-var
 - import: codelingo/landmines/shadowed-func-parameter
