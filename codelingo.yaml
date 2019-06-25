@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/effective-go/update-comment-first-word-as-subject
 - import: codelingo/mozillazg-go-cos/always-close-object-response-body
 - import: codelingo/cacophony/redundant-defer-wraps
 - import: codelingo/go/golint
