@@ -1,4 +1,31 @@
 tenets:
-  - import: codelingo/go
-  - import: codelingo/effective-go
-  - import: codelingo/code-review-comments
+- import: codelingo/code-review-comments/short-name-limited-scope
+- import: codelingo/jenkinsx/intformat
+- import: codelingo/code-review-comments/camel-case-constants
+- import: codelingo/cacophony/caught-generic-exceptions
+- import: codelingo/code-review-comments/go-error-fmt
+- import: codelingo/code-review-comments/context-in-struct
+- import: codelingo/rfjakob-gocryptfs/missing-close-file
+- import: codelingo/cacophony/defer-in-loop
+- import: codelingo/effective-go/update-comment-first-word-as-subject
+- import: codelingo/mozillazg-go-cos/always-close-object-response-body
+- import: codelingo/cacophony/redundant-defer-wraps
+- import: codelingo/go/golint
+- import: codelingo/go/global-var
+- import: codelingo/landmines/shadowed-func-parameter
+- import: codelingo/kubernetes/new-package-requires-test
+- import: codelingo/effective-go/loop-variable-used-in-go-routine
+- import: codelingo/effective-go/no-get-in-getters-name
+- import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
+- import: codelingo/code-review-comments/single-letter-loop-variable
+- import: codelingo/code-review-comments/no-custom-context
+- import: codelingo/effective-go/comment-first-word-as-subject
+- import: codelingo/kubernetes/flags-have-underscores
+- import: codelingo/cockroachdb/fmt-verbs
+- import: codelingo/cockroachdb/func-args-inline-comments
+- import: codelingo/cacophony/debug-prints
+- import: codelingo/code-review-comments/context-first-arg
+- import: codelingo/code-review-comments/avoid-meaningless-package-names
+- import: codelingo/go
+- import: codelingo/effective-go
+- import: codelingo/code-review-comments
