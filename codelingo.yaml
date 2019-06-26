@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/code-review-comments/short-name-limited-scope
 - import: codelingo/jenkinsx/intformat
 - import: codelingo/code-review-comments/camel-case-constants
 - import: codelingo/cacophony/caught-generic-exceptions
