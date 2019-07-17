@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 )
 
 // main func...
@@ -25,6 +26,12 @@ func GetSubSlice(start int, slice []int) []int {
 
 func AnotherGetSubSlice(start int, slice []int) []int {
 	// a comment
+	file, err := os.Open("something.txt")
+	if err != nil {
+		panic(err)
+	}
+	fmt.Printf("%v", file)
+	return nil
 }
 
 func Do() error {
